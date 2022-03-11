@@ -1,0 +1,102 @@
+.container, div.outline-2 {
+	border-style:solid;
+	border-color:#800080;
+	padding: 8px;
+	margin-bottom: 10px;
+	/* background-color:black; */
+}
+
+td,th,p,h1,h2,b,h3,h4,h5,h6strike,ul,li,pre {
+	color:white;
+}
+
+h1 {
+	margin:5px;
+}
+
+.header {
+	overflow:hidden;
+	position:fixed;
+	top:0;
+	left:0px;
+	right:0px;
+	background-color:rgba(68,51,119,.5);
+	border-color:#600060;
+	border-bottom-style: outset;
+	width:auto;
+	margin-bottom: 10px;
+}
+
+.header a {
+	font-weight: bold;
+}
+
+body {
+	margin-bottom: 125px;
+	margin:0px;
+	font-family:monospace, sans-serif;
+	background-color:black;
+	background-image: url("../img/stars.png");
+	max-width:98%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.header {
+	position:relative;
+
+}
+.menu  {
+	position:absolute;
+	bottom: 0;
+	left:110px;
+}
+a {
+	text-decoration: none;
+	font-weight: bold;
+	color:#850060;
+	/* margin:5px; */
+}
+.header a {
+
+	margin:5px;
+}
+a:hover{
+	text-decoration:underline;
+	color:red;
+}
+table, th, td {
+	border: 1px solid #800080;
+	font-size:12px;
+	width:75%;
+}
+
+.greentext {
+	color:green;
+	text-decoration:none;
+}
+
+img:hover {
+	border-style:solid;
+	border-color:#A000A0;
+	border-width: 1px;
+}
+
+img {
+	border-style: solid;
+	border-color:#900090;
+	border-width: 1px;
+}
+
+.cat:hover {
+	border-style:solid;
+	border-color:#800080;
+	border-width: 1px;
+	
+}
+
+.cat {
+	border-style:solid;
+	border-color:#600060;
+	border-width: 1px;
+}
