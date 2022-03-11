@@ -1,0 +1,103 @@
+#+INCLUDE: "header.html" export html
+#+options: toc:nil
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:nil tags:nil tasks:nil tex:nil timestamp:nil toc:nil title:nil
+#+TITLE: qorg11.net - Info
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+
+* About me
+
+
+
+#+NAME: Me as a gondola
+[[./img/me.png]]
+
+Hello, my name is qorg, I shit and piss, I am a system administrator
+and programmer. I run this website, [[https://zilozyb.in][zilozyb.in]] (privacy focused
+service provider), [[https://kill-9.xyz][kill-9]] (A wiki) and [[https://ebin.city][ebin.city]] (Shared UNIX
+machine, with tildes available). And I have a [[https://metrics.torproject.org/rs.html#details/A16933881734FBAD4535EF0A7331F2120E5E9EBB][Tor node]]
+
+** Music
+I mostly enjoy any kind of music, but obviously i have my preferences,
+my favorite genres are metal (basically all subgenres), rock, punk and
+probably others, some artists I enjoy are: Arpaviejas, D.R.I.,
+Dubmood, Elektroduendes, El Ãšltimo Ke Zierre, Mägo de oz, Marea,
+Extremoduro, Síndrome de abstinencia, Oi! se arma Mayhem, Metallica,
+Megadeth, Slayer, Anthrax, S.O.D., M.O.D. Non Servium, Nuclear
+Assault, Pink Floyd, Eskorbuto, R.I.P. LFO, Death, Burzum, Atari
+Teenage Riot, Megadrive, Sin Dios, Vomito, Segismundo Toxicomano, Los
+Canallas, Los muertos de Cristo, Living Death... You can take a look
+at my marvellous music taste in my [[https://last.fm/user/corgoncio][lastfm]]
+
+** Languages
+My native language is Spanish, and i am fluent in English, So you can
+talk to me in any of these languages. I also have a bit of knowledge
+of Esperanto but I forgot most of them. I would also like to learn
+Catalan and Euskera, but i am too lazy for that.
+
+** Politics
+I used to care about them, I don't anymore, I just want freedom and
+well being for everyone. And i'm not going to label this.
+ 
+** Contact
+You can contact me via:
+
+- E-Mail: nbome [at] riseup {dot} net (If you don't use PGP I probably won't reply)
+- XMPP: qorg11 {at} zilozyb [dot] in
+- I2P-Bote (Don't check it often): Siu
+  ~CBFeGSDagrgS30gBb6QvnHmH5KRlrubcK4D71lHvgZ7HbOO43XE4TROd75Q3h9V5~cPKsVMfpikxqUTnuxqDybseE6Rw1zz2Nx94VUJP~mPFHF99tSw7ZpYailIlzPMxV4XQdTJ4IUis45-rsM98-rJ3~l0HQCWx5RjOXlaFSC
+
+  I am also available in the [[https://rizon.net][Rizon]], [[https://libera.chat][Libera]] and [[https://irc.concealed.world][nixx's]] IRC networks as
+  "qorg" in rizon, "qorg11" in Libera and "hustler_wilson" in nixx's I
+  am always in #kill-9 in Rizon and #the-asylum in nixx's.
+
+** Computing
+
+My main machine is a ThinkPad x220. After using a ThinkPad T400 for a
+long (long) time i decided it was time to upgrade. Not because
+>core2duo. I have enough patience to wait 2 seconds for something to
+load. RAM wasn't a problem either because i never use more than 3
+gigs. I was having some hardware problems which were impossible to
+debug. It had something to do with the GPU I believe, so everything i
+would have to do is to change the CPU, but i couldn't find anything so
+i just bought a x220. I already corebooted it and used the me_cleaner
+thing, mind you.
+
+I do most of my computing under a terminal, in which I run tmux, the
+first frame is sshing to my server (A thinkpad T60 in less than 2
+meters from me) in which i run this websites and most of my services
+in. I ssh to this to, besides managing the server itself, run weechat
+to use irc and more. In the second frame I runprofanity (XMPP client)
+and in the third frame cmus, my music player.
+
+My web browser is Pale Moon, which is garbage and i wish i had an
+alternative, but it's the least bad thing out there.
+
+** Link this website
+
+Do you love this website? Awesome! Please add my website to your
+website!
+
+Easiest way is to use anchors and just link to qorg11.net.
+
+If you didn't fall on web 2.0 meme, you have buttons bellow, please do
+not steal bandwith, or do if you want, this server is free. The
+buttons are in the standard 88x31 resolution.
+
+[[./img/qorg11px.gif]]
+[[./activelink.png]]
+
+There's also this banner I made for the (unofficial) lainchan webring
+
+[[./img/bigqorg.png]]
+
+** But wait... There's more!
+If you liked my website, you'll love some friends' websites. Check them out!
+
+- [[https://concealed.world][Nixx's website]] Awesome cool looking website.
+- [[https://getimiskon.xyz][Getimiskon's website]] Fishe's website, run services as well.
+- [[https://blackgnu.net][Werwolf's]] website Insane guy's blog in which he complains about everything can complain about.
+- [[https://tilde.team/~lemon/][Lemon's website]] Musicfag's website
+- [[https://kill-9.xyz][kill-9]] : My other website in which i write about stuff (Colaborative wiki)
+
