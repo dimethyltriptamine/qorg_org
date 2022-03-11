@@ -1,0 +1,72 @@
+#+INCLUDE: "header.html" export html
+#+options: toc:nil
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:nil tags:nil tasks:nil tex:nil timestamp:nil toc:nil title:nil
+#+TITLE: qorg11.net - Media I've consumed
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+
+* Media I've consumed
+Well, someone has said, that in this world there are people for
+everything, or "it takes all sorts to make a world", so there must be
+someone interested on the media I consume and what I think about
+it. So here are music albums, movies and similar.
+
+As i'm not a professional rater, I'm not gonna rate them, in numbers,
+i'll just say what I think about the thing and that's it.
+
+** Movies
+- *Pulp Fiction (1994)*: The movie is stupid, ridicolous and most
+  pejorative adjectives you can think of. But it's my favorite movie
+  nevertheless.
+- *Trainspotting (1996)*: Movie about Scottish Drugaddicts. The thing
+  sends a Good Message. And the movie is really enjoyable.
+- *T2 Trainspotting (2017)*: Not as good as the original but still
+  passable.
+- *Ghost in the Shell (1995)*: It's the only anime movie i've
+  watched. It's pretty cyberpunk so i like it.
+- *Torrente: El brazo tonto de la ley (1997)*: Fucking funny garbage, if
+  i wasn't high i wouldn't have liked the thing.
+- *Torrente 2: Misión en Marbella*: Idem
+- *El día de la Bestia (1995)*: My favorite movie this country has made
+- *Acción mutante (1993)*: One of the movies i laughed the most
+- *Fear and loathing in Las Vegas (1998)*: I don't know what I watched
+** Anime
+I'm not much of an anime watcher, but eh, sure.
+
+- *Serial Experiments Lain*: The anime is cool. I used to simp for Lain
+  but then I discovered I'm qorg11, not a insecure, twitter user
+- *Paranoia Agent*: I remember once a linguistics teacher I had told me
+  to watch this anime. I watched it and I really enjoyed it. A good
+  satire. I have keked big to this one.
+- *Texhnolyze*: Made by the same guys that made Lain. But i enjoyed this
+  one more than Lain
+- *Haibane Renmei*: Made by the same guy as Lain and Texhnolyze, this is
+  the only media that made me cry and i have 0 problems admiting it.
+
+** Books
+I know how to read
+
+- *Neuromancer (1984)*: A drugaddict hacker needs to make money but he
+  can't work because he stole from his bosses.
+
+     
+
+** Music
+
+This shit will never be complete.
+
+- *Iron Maiden - Somewhere in time* My favorite album from these
+  dudes
+- *Arpaviejas - Ladrón de Almas*: One of the best punk albums in
+  Spanish
+- *Eskorbuto - Anti todo* Idem
+- *Living Death - World neuroses* It's alright
+- *D.R.I. - Thrash zone* Cool
+- *D.R.I. - Crossover* All songs are the same to be honest
+- *death's dynamic shroud.wmv - I'll try living like this*: I've
+  listened to this album high on different substances, each time was
+  different, i love this album.
+- *El Último ke zierre - Ay, de mi!:* Good album
+- *El Último ke zierre - quemaste tus alas de angel:* Album de matao,
+  pero está bien.

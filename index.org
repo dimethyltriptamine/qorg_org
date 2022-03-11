@@ -1,0 +1,52 @@
+#+INCLUDE: "header.html" export html
+#+options: toc:nil
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:nil tags:nil tasks:nil tex:nil timestamp:nil toc:nil title:nil
+#+TITLE: qorg11.net - Dame chocolate que me ponga bien
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+
+* qorg11.net
+Welcome to qorg11.net, a fortress tall, take some time to show you around, impossible to break these walls, computer banks to rule the world, possibly I've browsed /g/ too much
+
+Sign my [[./guestbook/guestbook.cgi][guestbook!]] (the 'captcha' answer is sun)
+
+If you're in clearnet please check you're using the https version! (http version is just for compatibility with older browsers)
+
+- [[https://vid.qorg11.net][My peertube!]]
+- [[./qorg11.png][Here's a pic of me.]]
+- [[./identity.txt][Here's information about sites i own]]
+- [[./discordianism.txt][Richard Stallman on discordianism]]
+    
+Please write qorg with lowercase q.
+* Contact me
+
+My PGP key is [[./keys.txt][here]]. If you want to contact me you can either send me
+an email (find my email in the key, won't reply to unencrypted
+messages) or messaging me on XMPP, my JID is qorg11 at zilozyb dot in
+
+My PGP fingerprint is: *343F C20A 4ACA 62B9*
+
+Join our IRC Channel! #kill-9 in irc.rizon.net
+* Buy me a blotter
+
+Bitcoin (BTC): [[file:bitcoin:bc1q59t6z2lqdve7tfu3nc56dkh9djvpzpxllwyek6][bc1q59t6z2lqdve7tfu3nc56dkh9djvpzpxllwyek6]]
+
+Monero (XMR):
+[[file:monero:47QTumjtqJabbo1s9pLDdXeJarLVLfs1AaEcbi1xrEiV852mqcbe5AHLNXTk7tH9MscxcxQDfJQnvH5LpxvfgwSJQZ3zbS6][47QTumjtqJabbo1s9pLDdXeJarLVLfs1AaEcbi1xrEiV852mqcbe5AHLNXTk7tH9MscxcxQDfJQnvH5LpxvfgwSJQZ3zbS6]]
+
+Contact me if you want to donate using other method.
+* Mirrors
+#+begin_export html
+<a style="color:purple;" href="http://lainwir3s4y5r7mqm3kurzpljyf77vty2hrrfkps6wm4nnnqzest4lqd.onion/">[Tor]</a>,
+<a style="color:red;" href="http://ivusryc5mfrroomm6s5no4badevf7djzlgzlwarce33no2bsyi3q.b32.i2p/">[I2P]</a>
+<a style="color:cyan;" href="http://127.0.0.1:8888/USK@wA57L-2IJYwx6wOrLyKEpS6NHXRrSUXNWJNfu9T5gc4,twOe8gGJw~8~p-ICxazYTVduvS4RJZfiLUKRmRzo3so,AQACAAE/qorg/0/">[Freenet]</a>
+2<a style="color:green;" href="http://[200:94e:8525:b0f3:f5b2:b1a8:83c7:dfe8]">[Yggdrasil]</a>
+<a style="color:blue;" href="http://127.0.0.1:8080/ipns/k51qzi5uqu5dkvif927qdp5ou0lsc8c8rcvtzgtovxzx09eot2gtxmqu0vym7u/index.html">[ipfs]</a>
+<p><a href="/activelink.png">Here's my activelink.</a> Which helps seeding my
+	freesite if you add it as bookmark in freenet</p>
+</div>
+</div>
+#+end_export
+
+#+INCLUDE: "images_footer.html" export html
