@@ -1,0 +1,181 @@
+#+INCLUDE: "header.html" export html
+#+options: toc:nil
+#+OPTIONS: html-postamble:nil
+#+OPTIONS: html-style:nil
+#+OPTIONS: num:nil p:nil pri:nil stat:nil tags:nil tasks:nil tex:nil timestamp:nil toc:nil title:nil
+#+TITLE: qorg11.net - Lainchan webring
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="css/styles.css"/>
+
+* Lainchan webring
+
+Since i ceased visiting imageboards too often, this webring might not
+be updated. So maybe you'll see more websites in other websites in
+the webring. You can also use these buttons provided by Astaroth
+himself
+
+#+begin_export html
+<center>
+<div class="webring_box container">
+<a href="https://concealed.world/scripts/webring.php?id=qorg11&amp;action=previous">&lt;</a>
+<a href="https://concealed.world/scripts/webring.php?id=qorg11&amp;action=random">?</a>
+<a href="https://concealed.world/scripts/webring.php?id=qorg11&amp;action=next">&gt;</a>
+</div>
+</center>
+#+end_export
+
+#+begin_export html
+			<a href="https://yukinu.com">
+				<img src="img/yukinu.gif" alt="yukinu" /></a>
+			<a href="http://alienozi.c1.biz/">
+				<img src="img/lambda.png" alt="alienozi"/></a>
+			<a href="http://kamel.surge.sh">
+				<img src="img/nobloat.png" alt="kamel"/></a>
+			<a href="https://jyushimatsu.web.fc2.com/">
+				<img width="240" height="60" src="img/how.png" alt="osomatsu guy"/></a>
+			<a href="https://qorg11.net">
+				<img src="img/bigqorg.png" alt="me!"/></a>
+			<a href="https://xerophyte.neocities.org/">
+				<img src="img/xero.png" alt="xero"/></a>
+			<a href="http://cgjzkysxa4ru5rhrtr6rafckhexbisbtxwg2fg743cjumioysmirhdad.onion">
+				<img src="img/aether.png" alt="aether"/></a>
+			<a href="https://tinfoil-hat.net">
+				<img src="img/hat.png" alt="tinfoil-hat"/></a>
+			<a href="https://nightt.neocities.org/">
+				<img src="img/nightss.gif" alt="nights"/></a>
+			<a href="https://volta.neocities.org/">
+				<img width="240" height="60" src="/img/1597457620551.png" alt="volta"/></a>
+			<a href="https://jakesthoughts.xyz"><img src="/img/jakesthoughts.gif" alt="jake"/></a>
+			<a href="http://kolyma.jp/hosting"><img src="img/1597896548861.png" alt="kolyma"/></a>
+			<a href="https://www.davidgebski.nl/"><img src="img/david.png" alt="david"/></a>
+			<a href="https://getimiskon.neocities.org/"><img src="img/getimiskon.png" alt="getimiskon"/></a>
+			<a href="https://0x4f.org"><img src="img/crystaldata.png" alt="crystaldata"/></a>
+			<a href="https://saladslab.karabo.ga"><img src="img/salad.jpg" alt="salad"/></a>
+			<a href="http://ic3333h2g3p7ffv6ypscxfvgomi2oj7x45xkqzpay6txjl2nlg5qwcid.onion/"><img src="img/ic3.png"/></a>
+			<a href="https://concealed.world/"><img src="img/worldthinglol.gif" alt="concealedworld"/></a>
+			<a href="http://wh3zlpmhtec4odnskihkbjbqixw45jkkgsk5c2mh6j3qhrdggocnbbad.onion/">
+				<img src="img/nobody.gif"
+					width="240" height="60" alt="nobody"/></a>
+			<a href="https://mayvaneday.org"><img src="img/may.png" width="240" height="60" alt="mayvaneday"/></a>
+			<a href="https://dataswamp.org/~lich/"><img src="img/lich.png" alt="lich"/></a>
+			<a href="http://45.173.129.126/stream"><img src="img/radio.png" alt="radio"/></a>
+			<a href="https://saltorn.neocities.org"><img src="img/saltorn.png" alt="saltorn"/></a>
+			<a href="https://uwcur.neocities.org/"><img src="/img/uwcur.png" alt="uwcur"/></a>
+			<a href="http://nyom.ru"><img src="img/nyom.png" alt="nyom" width="240" height="60"/></a>
+			<a href="http://geocities.ws/skeletons"><img src="img/bone.png"
+												width="240" height="60" alt="bone zone"/></a>
+			<a href="https://deurist.neocities.org/"><img src="img/deurist.png" alt="deurist"/></a>
+			<a href="https://www.tohya.net"><img src="img/tohya.png" alt="tohya"/></a>
+			<a href="https://limpingdogsdoghouse.neocities.org/"><img src="img/doghouse.png" alt="doghouse"/></a>
+			<a href="https://etheriarchos.neocities.org/"><img src="img/eth.png" alt="bloated site"/></a>
+			<a href="https://kyubit.neocities.org/"><img src="img/kyubit.png" alt="kyubit"/></a>
+			<a href="https://grafovolaverunt.xyz/"><img src="img/grafo.gif" alt="grafo"/></a>
+			<a href="https://kill-9.xyz"><img src="img/kill-9.xyz.png" alt="kill-9"/></a>
+			<a href="https://computability.neocities.org/"><img src="img/computability.png" alt="computability"/></a>
+			<a href="https://lainch.leibur.eu"><img src="img/lainch.png" alt="lainch"/></a>
+			<a href="https://sftn.github.io"><img src="img/stfn.png" alt="sftn"/></a>
+			<a href="https://lilibyte.net"><img src="img/lily.gif" alt="lily"/></a>
+			<a href="https://wiredspace.de"><img src="img/wiredspace.de.gif" alt="wiredspace"/></a>
+			<a href="https://strlst.myogaya.jp/index.html"><img src="img/strlst.png" alt="strlst"/></a>
+			<a href="https://user-index.xyz"><img src="img/user-index.gif" alt="user-index"/></a>
+			<a href="https://user-outdex.xyz"><img src="img/outdex.jpg" alt="user-outdex"/></a>
+			<a href="https://skumsoft.ltd/slimenet"><img src="img/slime.gif" alt="silime"/></a>
+			<a href="https://bendersteed.tech"><img src="img/bendersteed.jpg" alt="bendersteed"/></a>
+			<a href="https://hellishchemicals.neocities.org/"><img src="img/chemicals.png" alt="chemicals"/></a>
+			<a href="https://theswissbay.ch/pdf"><img src="img/bay.jpg" alt="bay"/></a>
+			<a href="https://jack---91.neocities.org/"><img src="img/jack.gif" alt="jack"/></a>
+			<a href="https://xenobyte.xyz"><img src="img/xero.jpg" alt="xeno"/></a>
+			<a href="https://techur.live"><img src="img/frog.png" alt="frog"/></a>
+			<a href="http://osirianwgeyfnshykr5gfvompz7iocvlknjucmmroqzdd7w6sarq2mqd.onion/">
+				<img src="img/h4x0rs.png" alt="h4x0rs"/></a>
+			<a href="https://flammableduck.xyz/"><img src="img/ducks.png" alt="duck"/></a>
+			<a href="https://tildezero.xyz/~goat/#rigmarole">
+				<img src="img/blur.jpg" alt="blurry"/></a>
+			<a href="https://gapandfriends.neocities.org/">
+				<img src="img/gapanfrens.png" alt="gapandfriends"/></a>
+			<a href="https://purplevoid.neocities.org/">
+				<img src="img/purplevoid.png" alt="purplevoid"/></a>
+			<a href="https://extramundane.xyz">
+				<img src="img/extramundane.jpg" alt="extramundane"/></a>
+			<a href="https://omicronsetup.eu">
+				<img src="img/omicron.gif" alt="omicron"/></a>
+			<a href="https://unix.tirol">
+				<img src="img/yoniks.png" alt="unix tirol"/></a>
+			<a href="https://beedge.neocities.org">
+				<img src="img/beedge.png" alt="beedge"/></a>
+			<a href="https://thealchemist.website/">
+				<img src="img/alchemy.png" alt="alchemy"/></a>
+			<a href="https://0x1bi.net">
+				<img src="img/ansi.png"/></a>
+			<a href="https://deadendshrine.online">
+				<img src="img/schizoposting.png"/></a>
+			<a href="https://digilord.neocities.org">
+				<img src="/img/digilord.gif"/></a>
+			<a href="https://michii.tk">
+				<img src="/img/michii.png"/></a>
+			<a href="https://nosleepforme.neocities.org">
+				<img src="/img/sleep.png"/></a>
+			<a href="https://room4.neocities.org/">
+				<img src="/img/room4.jpg"/></a>
+			<a href="https://hen6003.xyz/">
+				<img src="/img/hen6003.png" width="240" height="60"/></a>
+			<a href="https://jole.xyz">
+				<img src="/img/jole.png" alt="jole"/></a>
+			<a href="https://forum.agoraroad.com">
+				<img src="img/agoraroad.gif" alt="Agoraroad" /></a>
+			<a href="https://lain.la">
+				<img src="img/lain-la.png" alt="lain.la"/></a>
+			<a href="https://arisu.world">
+				<img src="img/arisu-world.png" alt="arisu.world"/></a>
+			<a href="https://unpop.neocities.org">
+				<img src="img/unpop.gif" alt="unpop" /></a>
+			<a href="https://driftt.neocities.org">
+				<img src="img/driftt.png" alt="driftt" /></a>
+			<a href="https://chaox.ro">
+				<img src="img/chaox.png" alt="chaox"/></a>
+			<a href="https://cached.world">
+				<img src="img/cached-world.png" alt="cached world" /></a>
+			<a href="https://itsevergreen.rip">
+				<img src="img/evergreen.png" alt="evergreen" /></a>
+			<a href="https://mazak.neocities.org">
+				<img src="img/mazak.png" alt="Mazak" /></a>
+			<a href="https://smolthots.neocities.org/">
+				<img src="img/small-thoughts.jpg" alt="small toughts" /></a>
+			<a href="https://spectrum-of-consciousness.neocities.org/">
+				<img src="img/spectrum-of-consciousness.gif" alt="Spectrum of consciousness"/></a>
+			<a href="https://libertywitch.com">
+				<img src="img/liberty-witch.png" alt="liberty witch" /></a>
+			<a href="https://seapunk.xyz/">
+				<img src="img/seapunk.gif" alt="seapunk"/></a>
+			<a href="https://ty3r0x.chaox.ro">
+				<img src="img/ty3r0x.png" alt="ty3r0x"/></a>
+			<a href="https://lckdscl.xyz/">
+				<img src="img/lckdscl.png" alt="lckdscl" /></a>
+			<a href="https://qmaury.com/">
+				<img src="img/qmaury.jpg" alt="qmaury"/></a>
+			<a href="https://sizeof.cat">
+				<img src="img/sizeofcat.jpeg" alt="sizeof(cat)"/></a>
+			<a href="https://ebin.city/~galladite">
+				<img src="img/galladite.png" alt="galladite"/></a>
+			<a href="https://halogenstars.neocities.org">
+				<img src="img/halogen-stars.png"
+					alt="halogen stars" /></a>
+			<a href="https://kirillov.neocities.org/">
+				<img src="img/k.png" alt="kirillov" /></a>
+			<a href="https://bel3kl2ro2yjnl36tzrc52w43ebuuz7c64zi3gohar2pghc5inqlpcad.onion">
+				<img src="img/legally-retarded.png" alt="Legally retarded" width="240"
+					height="60"/></a>
+			<a href="https://nerdbox.neocities.org">
+				<img src="img/nerdbox.png" alt="nerdbox" width="240" height="60"/></a>
+			<a href="http://ovveasqpanjhq2sgi6if6zkwsuegntiq34ft57xzqq5wysboszunodyd.onion/">
+				<img src="img/vutwex.gif" alt="vutwex" /></a>
+#+end_export
+
+** Down websites
+
+They are part of the history of the webring, so they stay
+
+- megaroad01.co
+- saladslab.karabo.ga
+- nyarr.dev    
+
+Rest in peace. No one will ever take your places.

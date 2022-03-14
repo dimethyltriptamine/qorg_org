@@ -17,7 +17,8 @@ If you're in clearnet please check you're using the https version! (http version
 - [[./qorg11.png][Here's a pic of me.]]
 - [[./identity.txt][Here's information about sites i own]]
 - [[./discordianism.txt][Richard Stallman on discordianism]]
-    
+- [[./media.xhtml][Media I have consumed]]
+  
 Please write qorg with lowercase q.
 * Contact me
 
@@ -41,7 +42,7 @@ Contact me if you want to donate using other method.
 <a style="color:purple;" href="http://lainwir3s4y5r7mqm3kurzpljyf77vty2hrrfkps6wm4nnnqzest4lqd.onion/">[Tor]</a>,
 <a style="color:red;" href="http://ivusryc5mfrroomm6s5no4badevf7djzlgzlwarce33no2bsyi3q.b32.i2p/">[I2P]</a>
 <a style="color:cyan;" href="http://127.0.0.1:8888/USK@wA57L-2IJYwx6wOrLyKEpS6NHXRrSUXNWJNfu9T5gc4,twOe8gGJw~8~p-ICxazYTVduvS4RJZfiLUKRmRzo3so,AQACAAE/qorg/0/">[Freenet]</a>
-2<a style="color:green;" href="http://[200:94e:8525:b0f3:f5b2:b1a8:83c7:dfe8]">[Yggdrasil]</a>
+<a style="color:green;" href="http://[200:94e:8525:b0f3:f5b2:b1a8:83c7:dfe8]">[Yggdrasil]</a>
 <a style="color:blue;" href="http://127.0.0.1:8080/ipns/k51qzi5uqu5dkvif927qdp5ou0lsc8c8rcvtzgtovxzx09eot2gtxmqu0vym7u/index.html">[ipfs]</a>
 <p><a href="/activelink.png">Here's my activelink.</a> Which helps seeding my
 	freesite if you add it as bookmark in freenet</p>

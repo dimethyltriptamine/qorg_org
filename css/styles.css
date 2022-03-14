@@ -100,3 +100,8 @@ img {
 	border-color:#600060;
 	border-width: 1px;
 }
+
+.webring_box {
+	border-color: #850060;
+	max-width: 150px;
+}
